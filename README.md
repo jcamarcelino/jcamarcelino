@@ -1,4 +1,6 @@
-### Hi there, I’m Julio Marcelino. 👋
+### 👋 Welcome!
+
+#### Here something about me:
 
 - 🔭 I’m currently working with C# in .net core.
 - 🌱 I’m currently learning more about agile methodologies and principles.
@@ -23,11 +25,9 @@
 </div>
   
   ##
+  
+#### How to reach me:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jcamarcelino)](https://github.com/jcamarcelino)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-marcelino-3b170211b/)](https://www.linkedin.com/in/julio-marcelino-3b170211b/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)]("mailto:jcamarcelino@gmail.com")
  
-<div> 
-  <a href = "mailto:jcamarcelino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-marcelino-3b170211b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
